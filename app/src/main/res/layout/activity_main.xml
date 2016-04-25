@@ -22,5 +22,6 @@
         android:id="@+id/button"
         android:layout_centerVertical="true"
         android:layout_toRightOf="@+id/textView"
-        android:layout_toEndOf="@+id/textView" />
+        android:layout_toEndOf="@+id/textView"
+        android:onClick="onButtonTap" />
 </RelativeLayout>
